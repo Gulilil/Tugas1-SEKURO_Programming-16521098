@@ -16,6 +16,7 @@
 
 <img src="Screenshots/Gambar 4-1.jpg">
 <h4> Untuk melakukan fork, dapat menekan tombol fork tersebut pada repo yang ingit diduplikat </h4>
+<h4> Repo yang diduplikat dapat diedit oleh pelaku fork. Dapat mengubah atau menambahkan fitur pada file tersebut </h4>
 
 <img src="Screenshots/Gambar 4-2.jpg">
 <h4> Untuk melakukan pull request, dapat menekan tombol 'New pull request' di sebelah kanan percabangan repo </h4>
